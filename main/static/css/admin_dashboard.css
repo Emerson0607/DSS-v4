@@ -30,20 +30,12 @@
     --box-shadow: 0 2rem 3rem var(--color-light)
 }
 
-.dark-theme-variables{
-    --color-background:#181a1e;
-    --color-white: #202528;
-    --color-dark: #edeffd;
-    --color-dark-variant: #a3bdcc;
-    --color-light: rgba(0,0,0,0.4);
-    --box-shadow: 0 2rem 3rem var(var(--color-light));
-}
 
+/*    appearance: none;*/
 *{
     margin: 0;
     padding: 0;
     outline: 0;
-    appearance: none;
     border: 0;
     text-decoration: none;
     list-style:none;

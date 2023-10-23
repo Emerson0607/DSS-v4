@@ -7,6 +7,7 @@
 </style>
 <div class="coordinatorCard">
     <div class="insights-div">
+       
         <span class="material-symbols-sharp ">analytics </span>
         <h2 style="display:inline;" class="ml-4 lh-base text-capitalize fs-2 fw-medium " ></h2>
         
@@ -26,9 +27,11 @@
         </div>
         <small class="text-muted"></small>
           <!-- Add checkboxes and labels here -->
+          
         <div class="checkboxes">
+            <form>
             <div class="form-group">
-                <label for=""> <br>Description </label>
+                <label for=""> <br>Comment </label>
                 <textarea class="form-control" id="textarea" rows="1"></textarea>
                 <br>
               </div>
@@ -38,9 +41,13 @@
                     <label class="label" ></label>
                 </div>
             </div>
-            <button class="btn btn-primary save-button">Save</button>
+            
+         </form>
         </div>
+       
+        <button class="btn btn-primary save-button">Save</button>
     </div>
+    
 </div>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
@@ -165,10 +172,6 @@
         });
 
         function saveDataToDatabase(textareaValue) {
-            // Implement the database-saving logic here
-
-            // Simulate a successful save (you should replace this with your actual logic)
-            // For demonstration, we use a setTimeout to mimic a server response.
              setTimeout(function () {
         // Clear the textarea
         insightsDiv.find("#textarea").val("");
@@ -195,9 +198,6 @@
         var percentage = Math.floor((checkedCheckboxes * 100) / totalCheckboxes);
         insightsDiv.find(".number").text(percentage + "%");
 
-    
-
-   
         function updatePercentage() {
             var checkedCheckboxes = checkboxGroup.find("input:checkbox:checked").length;
             var totalCheckboxes = checkboxGroup.find("input:checkbox").length;

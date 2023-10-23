@@ -36,13 +36,13 @@ main .file-container{
     box-shadow: var(--box-shadow);
     transition: all 300ms ease;
     padding-bottom: 2.5rem;
- 
+    position: relative;
 }
 hr{
     width: 100%;
     height: 0.5px;
     background-color: #ababab;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     margin-top: 1rem;
 }
 
@@ -106,7 +106,8 @@ main .file-container:hover{
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    margin-right: 3.7rem;
+    position: absolute;
+    right: 8.8rem;
 }
 
 .file-container .btn-submit:hover{
@@ -146,6 +147,10 @@ main .file-container:hover{
     .title{
         margin: 1rem auto;
         margin-left: 2.5rem;
+    }
+
+    .file-container .btn-submit{
+        right: 1.9rem;
     }
 }
 

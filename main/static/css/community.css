@@ -162,8 +162,10 @@ main .communityCard table tr:last-child td{
     margin: 5% auto;
     padding: 20px;
     border: 1px solid #888;
+    border-radius: 7px;
     width: 50%;
     position: relative;
+    
 }
 
 .communityCard .modal h4{
@@ -176,7 +178,7 @@ main .communityCard table tr:last-child td{
     padding: 20px;
     max-height: 300px; /* Set a maximum height for scrollability */
     overflow-y: auto; /* Enable vertical scrolling when the content overflows */
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
 }
 
 /* Style for form labels and inputs */
@@ -268,7 +270,7 @@ main .communityCard table tr:last-child td{
     cursor: pointer;
     border-radius: 5px;
     position: absolute;
-    right: 3.5rem;
+    right: 1rem;
     bottom: 1rem;
 }
 
@@ -293,6 +295,7 @@ main .communityCard table tr:last-child td{
     }
     .communityCard .modal-body{
         height: 40rem;
+        
     }
     .communityCard .btn-close{
         position: absolute;
