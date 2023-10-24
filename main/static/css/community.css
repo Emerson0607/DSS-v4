@@ -286,10 +286,7 @@ main .communityCard table tr:last-child td{
 /*smaller laptop*/
 @media screen and (max-width: 1200px){.communityCard 
     
-    main .insights{
-        grid-template-columns: 1fr;
-        gap: 0;
-    }
+    
     .communityCard .modal-content{
         position: relative;
     }
@@ -312,6 +309,10 @@ main .communityCard table tr:last-child td{
     }
     .communityCard .btn-close{
         margin-left: 23rem;
+    }
+    main .insights{
+        grid-template-columns: 1fr;
+        gap: 0;
     }
 }
 
