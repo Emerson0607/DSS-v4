@@ -362,6 +362,10 @@ main{
     background-color: #f0efef;
 }
 
+aside .cesu{
+    display: none;
+}
+
 }
 
 /*Mobile*/

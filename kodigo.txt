@@ -1,0 +1,50 @@
+########################################################################
+Babae	18-24	Hindi nakapagtapos ng Elementarya	Walang Trabaho
+Babae	18-24	Hindi nakapagtapos ng Sekundarya	Walang Trabaho
+Babae	18-24	Elementarya				Walang Trabaho
+Babae	18-24	Sekundarya				Walang Trabaho
+Babae	18-24	Hindi nakapagtapos ng Kolehiyo		Walang Trabaho
+
+
+Pagsasanay Pangkabuhayan (Livelihood Training) 
+Serbisyong Pangedukasyon (Education Services) 
+Pagtatanim (Farming) 
+Serbisyong Pangkalusugan (Health Services) 
+Pagsasanay Ukol sa Teknolohiya (Technology Training)
+Ayudang Pagkain (Food Assistance)
+Pagrerecycle (Recycling)
+Values Formation at Moral Recovery
+Kaalamang Pangkultura (Cultural Knowledge) 
+Serbisyong Dental (Dental Services)
+ 
+
+########################################################################
+Babae	18-24	Hindi nakapagtapos ng Elementarya	May Trabaho
+Babae	18-24	Hindi nakapagtapos ng Sekundarya	May Trabaho
+Babae	18-24	Elementarya				May Trabaho
+Babae	18-24	Sekundarya				May Trabaho
+
+Serbisyong Pangkalusugan (Health Services)
+Serbisyong Pangedukasyon (Education Services)
+Pagsasanay Ukol sa Teknolohiya (Technology Training
+Pagtatanim (Farming)
+Pagsasanay Pangkabuhayan (Livelihood Training)
+Ayudang Pagkain (Food Assistance)
+Values Formation at Moral Recovery
+Pagrerecycle (Recycling)
+Kaalamang Pangkultura (Cultural Knowledge) 
+Serbisyong Dental (Dental Services)
+
+########################################################################
+Babae	18-24	Kolehiyo				May Trabaho
+
+Serbisyong Pangkalusugan (Health Services)
+Pagsasanay Ukol sa Teknolohiya (Technology Training
+Pagtatanim (Farming)
+Pagrerecycle (Recycling)
+Values Formation at Moral Recovery
+Pagsasanay Pangkabuhayan (Livelihood Training)
+Ayudang Pagkain (Food Assistance)
+Kaalamang Pangkultura (Cultural Knowledge)
+Serbisyong Pangedukasyon (Education Services) 
+Serbisyong Dental (Dental Services)

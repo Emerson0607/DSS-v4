@@ -8,7 +8,7 @@ from main import db
 
 randomForest_Route = Blueprint('randomForest', __name__)
 
-model_path_cesu = 'trained_modelCESU3.pkl'
+model_path_cesu = 'trained_modelCESU4.pkl'
 model = joblib.load(model_path_cesu)
 
 
